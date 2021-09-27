@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* enthusistic **learner**
+* _research_ and _project_ on **Robotics** and **RPA**
+* _intermediate_ at __C__,__Java__ and __Python__
