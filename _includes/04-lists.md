@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Favorite places to visit
+   * Greece
+   * Italy
+   * Maldives
+2. Favourite food
+   * Al Baik(Broast)
+   * Burger
+   * Pizza
